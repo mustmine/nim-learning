@@ -1,13 +1,12 @@
 # Package
 
-version       = "0.1.0"
-author        = "mine"
-description   = "0"
-license       = "MIT"
-srcDir        = "src"
+version     = "0.1.0"
+author      = "mine"
+description = "Nim language learn"
+license     = "MIT"
+srcDir      = "src"
 bin           = @["nim-learning"]
 
+# Deps
 
-# Dependencies
-
-requires "nim >= 1.6.10"
+requires "nim >= 2.0.0"
