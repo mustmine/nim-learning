@@ -1,4 +1,4 @@
-# nim-lang documation collection
+# nim-lang documation collection for learning
 
 
 
