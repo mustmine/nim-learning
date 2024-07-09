@@ -15,3 +15,4 @@
 | lost22git/hello_nim             |  https://github.com/lost22git/hello_nim |
 | Frequently Asked Questions about Nim programming language | https://internet-of-tomohiro.netlify.app/nim/faq.en |
 | StefanSalewski/NimProgrammingBook  | https://github.com/StefanSalewski/NimProgrammingBook |
+| The Status Nim style guide| https://status-im.github.io/nim-style-guide/00_introduction.html|
