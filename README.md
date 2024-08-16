@@ -17,3 +17,4 @@
 | StefanSalewski/NimProgrammingBook  | https://github.com/StefanSalewski/NimProgrammingBook |
 | The Status Nim style guide| https://status-im.github.io/nim-style-guide/00_introduction.html|
 | Peter's DevLog | https://peterme.net |
+| On the benefits of using C as a language backend | https://github.com/vlang/v/discussions/7849 |
