@@ -18,3 +18,4 @@
 | The Status Nim style guide| https://status-im.github.io/nim-style-guide/00_introduction.html|
 | Peter's DevLog | https://peterme.net |
 | On the benefits of using C as a language backend | https://github.com/vlang/v/discussions/7849 |
+| Writing an OS in Nim - Fusion OS | https://0xc0ffee.netlify.app |
