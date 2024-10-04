@@ -29,4 +29,5 @@
 |  ----  | ----  |
 | Introduction to ARC/ORC in Nim | https://nim-lang.org/blog/2020/10/15/introduction-to-arc-orc-in-nim.html |
 | ORC - Vorsprung durch Algorithmen | https://nim-lang.org/blog/2020/12/08/introducing-orc.html |
-| Perceus: Garbage Free Reference Counting with Reuse(koka-lang) | https://www.microsoft.com/en-us/research/publication/perceus-garbage-free-reference-counting-with-reuse/ |
+| Perceus: Garbage Free Reference Counting with Reuse(koka-lang) | https://www.microsoft.com/en-us/research/publication/perceus-garbage-free-reference-counting-with-reuse |
+| Nim Destructors and Move Semantics | https://nim-lang.org/docs/destructors.html |
