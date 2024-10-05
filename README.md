@@ -12,6 +12,7 @@
 | StefanSalewski/NimProgrammingBook  | https://github.com/StefanSalewski/NimProgrammingBook |
 | The Status Nim style guide| https://status-im.github.io/nim-style-guide/00_introduction.html|
 | Frequently Asked Questions about Nim programming language | https://internet-of-tomohiro.netlify.app/nim/faq.en or https://internet-of-tomohiro.pages.dev/nim/faq.en |
+| gcc Release Timeline | https://gcc.gnu.org/develop.html#timeline |
 
 ## advanced learning
 |  name  | link  |
