@@ -24,6 +24,7 @@
 | On the benefits of using C as a language backend | https://github.com/vlang/v/discussions/7849 |
 | NIF, NIFC, native code... | https://forum.nim-lang.org/t/12534 |
 | Writing an OS in Nim - Fusion OS | https://0xc0ffee.netlify.app |
+| Nimony progress | https://forum.nim-lang.org/t/12693 |
 
 ## memory management
 |  name  | link  |
